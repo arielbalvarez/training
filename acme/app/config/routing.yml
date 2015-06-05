@@ -1,0 +1,8 @@
+training_exercise:
+    resource: "@TrainingExerciseBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
